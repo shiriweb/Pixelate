@@ -1,7 +1,7 @@
 {
   "name": "pixelate",
   "version": "1.0.0",
-  "description": "",
+  "description": "An editor for your 8-bit art!",
   "main": "index.js",
   "scripts": {
     "start": "http-server -c-1",
@@ -10,6 +10,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "http-server": "^0.11.1"
-  }
+    "http-server": "^0.11.2"
+  },
+  "keywords": []
 }
