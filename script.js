@@ -10,6 +10,7 @@ table.addEventListener("mousedown", addMouseOver);
 table.addEventListener("mouseup", removeMouseOver);
 select.addEventListener("change", pickColor);
 
+
 function makeRow() {
   const row = document.createElement("tr");
   for (let i = 0; i < 15; i++) {
